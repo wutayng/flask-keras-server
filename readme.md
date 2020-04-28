@@ -18,7 +18,7 @@ source venv/bin/activate
 python3 app.py
 ```
 
-##API Methods
+## API Methods
 
 ### Get Heatmap Video from Model Inference
 
