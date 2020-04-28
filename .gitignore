@@ -1,0 +1,6 @@
+
+assets/.DS_Store
+venv
+utils/__pycache__/image.cpython-37.pyc
+utils/__pycache__/load.cpython-37.pyc
+__pycache__/config.cpython-37.pyc
